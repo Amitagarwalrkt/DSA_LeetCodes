@@ -35,3 +35,19 @@ Practicing DSA consistently and keeping a record of solved problems, patterns le
 📌 License
 
 Feel free to reference or learn from these solutions. No specific license attached — just don't claim them as your own in a graded/academic setting.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Amitagarwalrkt/DSA_LeetCodes/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Amitagarwalrkt/DSA_LeetCodes/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Amitagarwalrkt/DSA_LeetCodes/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
