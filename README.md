@@ -46,6 +46,7 @@ Feel free to reference or learn from these solutions. No specific license attach
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amitagarwalrkt/DSA_LeetCodes/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Amitagarwalrkt/DSA_LeetCodes/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
