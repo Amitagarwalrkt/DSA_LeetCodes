@@ -54,11 +54,13 @@ Feel free to reference or learn from these solutions. No specific license attach
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amitagarwalrkt/DSA_LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Amitagarwalrkt/DSA_LeetCodes/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amitagarwalrkt/DSA_LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Amitagarwalrkt/DSA_LeetCodes/tree/master/0005-longest-palindromic-substring) |
+| [1189-maximum-number-of-balloons](https://github.com/Amitagarwalrkt/DSA_LeetCodes/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,4 +85,8 @@ Feel free to reference or learn from these solutions. No specific license attach
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amitagarwalrkt/DSA_LeetCodes/tree/master/0005-longest-palindromic-substring) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Amitagarwalrkt/DSA_LeetCodes/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
